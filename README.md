@@ -1,1 +1,1 @@
-Common tools for js.
+Contains some common tools and UI components
